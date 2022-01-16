@@ -14,10 +14,10 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path='/' element={<Home/>} />
-          <Route path='/services' element={<Services/>} />
-          <Route path='/products' element={<Products/>} />
-          <Route path='/sign-up' element={<SignUp/>} />
+          <Route path='/react-website-yt' element={<Home/>} />
+          <Route path='/react-website-yt/services' element={<Services/>} />
+          <Route path='/react-website-yt/products' element={<Products/>} />
+          <Route path='/react-website-yt/sign-up' element={<SignUp/>} />
         </Routes>
       </Router>
 

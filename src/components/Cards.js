@@ -13,13 +13,13 @@ function Cards() {
               src='images/img-9.jpg'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Adventure'
-              path='/react-website-yt/services'
+              path='/services'
             />
             <CardItem
               src='images/img-2.jpg'
               text='Travel through the Islando of Bali in a Private Cruise'
               label='Luxury'
-              path='/react-website-yt/services'
+              path='/services'
             />
           </ul>
 
@@ -28,19 +28,19 @@ function Cards() {
               src='images/img-3.jpg'
               text='Set Sail in the Atlantic Ocean cisiting Unchated Waters'
               label='Mystery'
-              path='/react-website-yt/services'
+              path='/services'
             />
             <CardItem
               src='images/img-4.jpg'
               text='Texperience Football on Top of the Himilayan'
               label='Adventure'
-              path='/react-website-yt/products'
+              path='/products'
             />
             <CardItem
               src='images/img-8.jpg'
               text='Ride through the Sahara Desert on a guided camel tour'
               label='Luxury'
-              path='/react-website-yt/sign-up'
+              path='/sign-up'
             />
           </ul>
         </div>
